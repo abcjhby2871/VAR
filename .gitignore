@@ -1,0 +1,12 @@
+*.swp
+**/__pycache__/**
+**/.ipynb_checkpoints/**
+.DS_Store
+.idea/*
+.vscode/*
+_vis_cached/
+VAR/data
+VAR/result
+VAR/weight
+
+
