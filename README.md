@@ -1,6 +1,6 @@
 # 视觉自回归模型：通过下一尺度的预测规模化图像生成
 ## 说明
-这是南京大学2024年数学建模课程项目，我选择的是VAR这篇工作，引用方式如下。
+这是南京大学2024年数学建模课程项目，我选择的是 [Visual AutoRegressive modeling](https://github.com/FoundationVision/VAR) 这篇工作，引用方式如下。
 ```
 @misc{tian2024visualautoregressivemodelingscalable,
       title={Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction}, 
