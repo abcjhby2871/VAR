@@ -17,4 +17,7 @@
 pip install jupyter
 ```
 ## 使用
-所有的核心代码放在[exp.ipynb](exp.ipynb)中，包括可视化与脚本调用。我们验证了Transformer深度在16与20时脚本能够正常执行。
+所有的核心代码放在[exp.ipynb](exp.ipynb)中，包括可视化与脚本调用。我们验证了Transformer深度在16与20时脚本能够正常执行。额外的三个脚本的作用如下：
+1. [sample.py](sample.py): 提供了条件图像生成的代码。
+2. [scale.py](scale.py):提供了尺度定律验证的重构损失与错误率计算。
+3. [auto.py](auto.py):提供了图像质量评估的调用代码。
